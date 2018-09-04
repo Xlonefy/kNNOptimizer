@@ -1,4 +1,0 @@
-/home/joao/Documents/playground/kNNOptimizer/build/CMakeFiles/rebuild_cache.dir
-/home/joao/Documents/playground/kNNOptimizer/build/CMakeFiles/Learn.dir
-/home/joao/Documents/playground/kNNOptimizer/build/CMakeFiles/edit_cache.dir
-/home/joao/Documents/playground/kNNOptimizer/build/CMakeFiles/main.dir
