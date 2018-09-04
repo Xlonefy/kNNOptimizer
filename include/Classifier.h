@@ -5,7 +5,7 @@
 
 #include "Data.h"
 #include "Vector.h"
-#include "Genetics.h"
+#include "Genetics.hpp"
 
 namespace learn {
 

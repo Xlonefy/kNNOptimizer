@@ -3,8 +3,7 @@
 
 #include "Reader.h"
 #include "Classifier.h"
-#include "Config.h"
-#include "Genetics.h"
+#include "Genetics.hpp"
 #include "Problem.h"
 #include "Optimizer.h"
 

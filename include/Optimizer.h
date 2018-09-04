@@ -6,7 +6,7 @@
 #include <utility>
 
 #include "Problem.h"
-#include "Genetics.h"
+#include "Genetics.hpp"
 
 namespace learn {
 

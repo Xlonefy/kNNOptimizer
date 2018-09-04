@@ -2,7 +2,7 @@
 #define LEARN_INCLUDE_PROBLEM_H_
 
 #include "Data.h"
-#include "Genetics.h"
+#include "Genetics.hpp"
 
 namespace learn {
 

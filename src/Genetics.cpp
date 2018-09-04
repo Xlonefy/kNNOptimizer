@@ -1,7 +1,7 @@
 #include <utility>
 #include <unordered_set>
 
-#include "Genetics.h"
+#include "Genetics.hpp"
 
 namespace learn {
 Genome::~Genome() {}

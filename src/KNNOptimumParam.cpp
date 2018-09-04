@@ -2,7 +2,6 @@
 
 #include "Problem.h"
 #include "Vector.h"
-#include "Config.h"
 #include "Classifier.h"
 
 namespace learn {
